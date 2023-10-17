@@ -1,4 +1,4 @@
-# DAE (Decentralized Autonomous Education TEST)
+# DAE (Decentralized Autonomous Education TEST TWO)
 
 <p align="center">
 <img src="./apps/web/public/dae-home-image.png" alt="dae logo" width="300" height="auto">
